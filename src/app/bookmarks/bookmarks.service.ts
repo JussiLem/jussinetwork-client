@@ -11,6 +11,6 @@ export class BookmarksService {
   }
 
   getAll(): Observable<any> {
-    return this.http.get('http://localhost:8080/bookmarks');
+    return this.http.get('http://localhost:8080/bookmarks/');
   }
 }

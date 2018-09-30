@@ -5,9 +5,6 @@
 ### Features
 - Javascript framework created with Angular-Cli
 
-### Coming up
-* Heroku support
-
 
 ### Info about the app
 This is my ambitious plan to create application where people could share stories,
